@@ -1,5 +1,5 @@
 # api-client
-API client for billdu.com, minifaktura.sk, minifaktura.cz, minirechnung.at and minirechnung.de
+API client for hiragroup.com, minifaktura.sk, minifaktura.cz, minirechnung.at and minirechnung.de
 
 stability: dev
 
@@ -15,7 +15,7 @@ stability: dev
  first we need to initialize the client like this
 
  ````
- $client = iInvoices\Api\ApiClient(http://api.billdu.com, $publicKey, $privateKey);
+ $client = iInvoices\Api\ApiClient(http://hiragroup.com, $publicKey, $privateKey);
  ````
 
  the client has 4 available resources: Clients, Products, Orders, Invoices you can acces them like this
