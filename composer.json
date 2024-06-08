@@ -1,11 +1,11 @@
 {
-	"name": "billdu/api-client",
+	"name": "hira/api-client",
 	"description": "API client for billdu.com, minifaktura.sk, minifaktura.cz, minirechnung.at, minirechnung.de",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Martin Bažík",
-			"email": "martin@bazo.sk"
+			"name": "Ali Muhsi Kemal",
+			"email": "alimuhsikemam@gmail.com"
 		}
 	],
 	"require": {
